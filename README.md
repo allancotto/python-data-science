@@ -18,22 +18,21 @@ The course is split into 6 different notebooks:
 Short intro to Jupyter Notebooks.
 
 ### Notebook 1
-Python basic concepts refresher.
+Python basic concepts refresher and some text analysis exercises.
 
 ### Notebook 2
-Challenges you to do sentiment analysis on a sample text.
+Introduction to vectorised computing and dealing with large data with numpy.
 
 ### Notebook 3
-Introduction to vectorised computing and dealing with large data.
+Introduction to plotting in Python with matplotlib.
 
 ### Notebook 4
-Fun exercise to test your understanding of how data flows through Python.
+Introduction to pandas and dealing with tabular data.
 
-### Notebook 5
-Introduction to the numpy package and structing large data.
-
-### Notebook 6
-Introduction to plotting in python using matplotlib.
+### Extra notebooks
+At the end of the course, there are notebooks starting with `extra` which over a wide
+range of applied data science topics. Usually students are expected to do one
+of their choice but feel free to go through all of them.
 
 ## Authors
 This course was developed by Ignat Georgiev and Patrick Kinnear from the Digital Skills team at Information Services at the University of Edinburgh.
